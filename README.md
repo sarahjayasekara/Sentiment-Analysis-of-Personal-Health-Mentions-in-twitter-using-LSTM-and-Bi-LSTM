@@ -1,2 +1,1 @@
-# Tea-Leaf-Disease-Classifier
-CNN based tea leaf disease classification pipeline
+# Sentiment Analysis of Personal Health Mentions in twitter using LSTM and Bi-LSTM
